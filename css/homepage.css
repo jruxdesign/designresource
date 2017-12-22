@@ -3,7 +3,7 @@
 
 
 .homepage-line {
-    background-color: #7166FF;
+    background-color: #FF4B99;
     margin-left:15px;
 }
 
@@ -268,14 +268,14 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 }
 
 #tools-label-design {
-    background-color: #FF718E;
+    background-color: #C47AC0;
 }
 
 #tools-label-development {
-    background-color: #71FF9A;
+    background-color: #14BDEB;
 }
 #tools-label-miscellaneous {
-    background-color: #F171FF;
+    background-color: #A3F7B5;
 }
 
 .tools h4 {
