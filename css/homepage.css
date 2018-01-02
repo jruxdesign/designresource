@@ -133,7 +133,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
     line-height: 20px;
     background-color: #FFFFFF;
     box-shadow: 0 5px 15px 0 rgba(127,127,127,0.50);
-    border-radius: 0px 5px 5px 0px;
+    border-radius: 5px 5px 5px 5px;
     padding: 0px 20px 0px 20px;
 }
 
