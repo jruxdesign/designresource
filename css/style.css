@@ -13,8 +13,8 @@ h1 {
 
 
 .tophero {
-     font-family: 'Work Sans', sans-serif;
-    font-size: 42px;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 33px;
     font-weight: 700;
     color: #fff;
     margin: 20px 0px 20px 0px;
@@ -22,13 +22,13 @@ h1 {
 }
 
 .topherop {
-     font-family: 'Work Sans', sans-serif;
-    font-size: 23px;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 17px;
     font-weight: 700;
     color: #fff;
     margin: 20px 0px 20px 0px;
-    margin-left:15px;
-    line-height:33px;
+    margin-left: 15px;
+    line-height: 26px;
 
 }
 
